@@ -1,0 +1,29 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.0.4",
+    "@tensorflow/tfjs-node": "^1.0.3",
+    "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^3.4.1",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "form-data": "^2.3.3",
+    "multer": "^1.4.1",
+    "n": "^3.0.2",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "tfjs": "^0.6.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
